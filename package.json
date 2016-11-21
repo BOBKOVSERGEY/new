@@ -1,0 +1,19 @@
+{
+  "name": "test-prj",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOBKOVSERGEY/new.git"
+  },
+  "author": "BOBKOV SERGEY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOBKOVSERGEY/new/issues"
+  },
+  "homepage": "https://github.com/BOBKOVSERGEY/new#readme"
+}
